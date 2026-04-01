@@ -1,6 +1,6 @@
 # 👋 Владислав Калабуха
 
-**Godot 4.x Game Developer | 2D Gameplay / Systems**
+**Godot 4.x разработчик игр | 2D геймплей / системы**
 
 📍 Ростов-на-Дону, Россия
 📧 [kalabuha04@gmail.com](mailto:kalabuha04@gmail.com)
@@ -8,118 +8,117 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 О себе
 
-Game developer with **2+ years of experience**, focused on **2D projects in Godot 4.x**.
-Main strengths: **gameplay systems, architecture, and production-ready code**.
+Разработчик игр с опытом более **2 лет**, специализируюсь на **2D проектах в Godot 4.x**.
+Основной фокус — **геймплейные механики, системы и архитектура**.
 
-Experience working in teams, following **technical specifications and sprint workflows**, with releases on **PC and Android**.
+Имею опыт работы в команде, по ТЗ и спринтам, с релизами под **PC и Android**.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Технологии
 
-### Engine / Language
+### Engine / Язык
 
 * Godot Engine **4.x (2D)**
 * GDScript
 
-### Gameplay & Architecture
+### Геймплей и архитектура
 
-* Gameplay systems, characters, abilities, and mini-games
-* **Component-based architecture** (MoveComp, AnimComp, etc.)
-* Scene-based NPC assembly
+* Разработка персонажей, механик, систем и мини-игр
+* **Компонентная архитектура** (MoveComp, AnimComp и др.)
+* Сборка NPC через компоненты
 * Signals, Groups, Autoload (Singletons)
-* Custom **Resources**
-* FSM (state-based logic)
+* Кастомные **Resources**
+* FSM (state-based логика)
 
 ### Multiplayer
 
-* 2D multiplayer in Godot 4
-* Lobby systems (plugin integration)
-* Player synchronization
+* 2D мультиплеер в Godot 4
+* Lobby-системы (через плагины)
+* Синхронизация игроков
 * RPC / RPC_id
-* Custom **UPnP implementation**
+* Собственная реализация **UPnP**
 
-### Tools & Workflow
+### Инструменты
 
-* Code refactoring & maintenance
-* Performance optimization (FPS, update loops)
-* Debug tools & logging
+* Рефакторинг и поддержка кода
+* Оптимизация (FPS, логика обновлений)
+* Debug-инструменты и логирование
 * Git, Figma
 
 ---
 
-## 💼 Experience
+## 💼 Опыт
 
-### 🎮 Indie Project (in development) — Godot Developer
+### 🎮 Indie Project (в разработке) — Godot Developer
 
-*Aug 2025 — Present*
+*авг. 2025 — настоящее время*
 
-* Developing a 2D rogue-lite with meta-progression
-* Implementing gameplay mechanics and combat systems
-* Designing component-based NPC architecture
-* Building cutscene tools and narrative systems
-* Collaborating with artists and QA
-* Refactoring and maintaining production code
+* Разработка 2D rogue-lite с мета-прогрессией
+* Создание геймплейных и боевых систем
+* Реализация компонентной архитектуры NPC
+* Разработка систем сюжета и катсцен
+* Работа с художниками и тестировщиками
+* Поддержка и рефакторинг продакшн-кода
 
 ---
 
 ### 🧩 Work Projects (NDA) — Game Developer (Godot)
 
-* Gameplay mechanics, systems, and characters
-* Multiplayer systems (lobby, RPC, sync)
-* UI development for gameplay support
-* Balancing progression and combat systems
-* Bug fixing and iteration based on feedback
+* Разработка механик, систем и персонажей
+* Реализация мультиплеера (lobby, RPC, синхронизация)
+* Создание UI под геймплей
+* Балансировка игровых систем
+* Исправление багов по фидбеку
 
 ---
 
-### 👨‍🏫 Godot Instructor / Game Dev Mentor
+### 👨‍🏫 Преподаватель Godot / Game Dev
 
-*2023 — Present*
+*2023 — настоящее время*
 
-* Teaching game development using **Godot 4.x (2D)** from scratch to completed projects
-* Conducting lessons on programming, architecture, and game design
-* Reviewing student projects and improving code quality
-* Participating in hackathon organization and curriculum development
+* Обучение разработке игр на **Godot 4.x (2D)** с нуля до готовых проектов
+* Проведение занятий по программированию, архитектуре и геймдизайну
+* Ревью и улучшение проектов учеников
+* Проведение хакатона и участие в разработке учебной программы
 
-**Achievements:**
+**Результаты:**
 
-* Students trained under the program achieved **prize-winning places in олимпиads and competitions**
-* Guided dozens of completed student projects
+* Ученики, обучавшиеся по программе, занимали **призовые места на олимпиадах и конкурсах**
+* Под руководством реализованы десятки проектов
 
 ---
 
 ### 🧪 Freelance / Personal Projects — Developer (Godot / Python)
 
-* Development of mini-games and tools
-* Python tools for **Digital Image Correlation (DIC)**
-* SDK integration and release preparation
+* Разработка мини-игр и утилит
+* Python-инструменты для **DIC (цифровая корреляция изображений)**
+* Интеграция SDK и подготовка билдов
 
 ---
 
-## 🏭 Production Experience
+## 🏭 Продакшн опыт
 
-* Sprint-based development
-* Working with technical specifications
-* Release preparation for **PC & Android**
-* Bug tracking and fixing based on QA feedback
-* Team collaboration
-
----
-
-## 🎓 Education
-
-**Southern Federal University (SFedU)**
-Institute of Mathematics, Mechanics and Computer Science
-Bachelor’s Degree (2022–2026)
+* Работа по ТЗ и спринтам
+* Участие в релизах
+* Подготовка билдов под **PC и Android**
+* Работа с баг-репортами
+* Командная разработка
 
 ---
 
-## 🌍 Languages
+## 🎓 Образование
 
-* Russian — Native
-* English — A2 (actively improving)
+**ЮФУ — Институт математики, механики и компьютерных наук им. И.И. Воровича**
+Бакалавр, 2022–2026
+
+---
+
+## 🌍 Языки
+
+* Русский — родной
+* Английский — A2 (в процессе)
 
 ---
