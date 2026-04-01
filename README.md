@@ -1,91 +1,125 @@
-# Владислав Калабуха
+# 👋 Владислав Калабуха
+
 **Godot 4.x Game Developer | 2D Gameplay / Systems**
 
-📍 Ростов-на-Дону, Россия  
-📧 kalabuha04@gmail.com  
-📱 +7 (961) 587-13-59  
+📍 Ростов-на-Дону, Россия
+📧 [kalabuha04@gmail.com](mailto:kalabuha04@gmail.com)
+📱 +7 (961) 587-13-59
 
 ---
 
-## 👋 О себе
-Разработчик игр с опытом более 2 лет, специализируюсь на **2D проектах в Godot 4.x**.  
-Основной фокус — **геймплейные механики, системы, архитектура и поддержка продакшн-кода**.  
-Имею опыт работы в команде, по ТЗ и спринтам, с релизами под **PC и Android**.
+## 🧠 About Me
+
+Game developer with **2+ years of experience**, focused on **2D projects in Godot 4.x**.
+Main strengths: **gameplay systems, architecture, and production-ready code**.
+
+Experience working in teams, following **technical specifications and sprint workflows**, with releases on **PC and Android**.
 
 ---
 
-## 🧠 Технические навыки
+## 🛠 Tech Stack
 
 ### Engine / Language
-- Godot Engine **4.x** (2D)
-- GDScript
+
+* Godot Engine **4.x (2D)**
+* GDScript
 
 ### Gameplay & Architecture
-- Разработка персонажей, модулей, игровых систем и мини-игр
-- **Компонентная архитектура** (MoveComp, AnimComp и др.)
-- Сборка NPC путём добавления компонентов в сцену
-- Signals, Groups, Autoload (Singletons)
-- Кастомные **Resources**
-- Чуть state-based логика (FSM-подход)
+
+* Gameplay systems, characters, abilities, and mini-games
+* **Component-based architecture** (MoveComp, AnimComp, etc.)
+* Scene-based NPC assembly
+* Signals, Groups, Autoload (Singletons)
+* Custom **Resources**
+* FSM (state-based logic)
 
 ### Multiplayer
-- Реализация 2D мультиплеера в Godot 4
-- Lobby-система (интеграция через плагин)
-- Синхронизация игроков
-- RPC / RPC_id
-- **Собственная реализация UPnP**
 
-### Code Quality & Tools
-- Рефакторинг и поддержка существующего кода
-- Базовая оптимизация (FPS, логика обновлений)
-- Debug-инструменты и логирование
-- Git, Figma
+* 2D multiplayer in Godot 4
+* Lobby systems (plugin integration)
+* Player synchronization
+* RPC / RPC_id
+* Custom **UPnP implementation**
 
----
+### Tools & Workflow
 
-## 💼 Опыт работы
-
-### **Indie Project (в разработке)** — Godot Developer  
-*авг. 2025 — настоящее время*
-- Разработка 2D rogue-lite с мета-прогрессией и интерактивным окружением
-- Создание геймплейных механик, боевых систем и систем прогрессии
-- Реализация компонентной архитектуры для NPC
-- Разработка конструктора катсцен и систем сюжета
-- Взаимодействие с художниками и тестировщиками
-- Рефакторинг и поддержка продакшн-кода
-
-### **Work Projects (NDA)** — Game Developer (Godot)
-- Разработка игровых механик, персонажей и систем
-- Реализация мультиплеерных решений (lobby, RPC, синхронизация)
-- Балансировка боевых и прогрессионных систем
-- Создание UI для поддержки геймплея
-- Фикс багов по репортам и фидбеку
-
-### **Freelance / Personal Projects** — Developer (Godot / Python)
-- Разработка мини-игр и утилит
-- Создание Python-скриптов для цифровой корреляции изображений
-- Интеграция SDK и подготовка билдов под релиз
+* Code refactoring & maintenance
+* Performance optimization (FPS, update loops)
+* Debug tools & logging
+* Git, Figma
 
 ---
 
-## 🏭 Продакшн опыт
-- Работа по ТЗ и спринтам
-- Участие в релизе проекта
-- Подготовка билдов под **Android и PC**
-- Работа с баг-репортами и правками по фидбеку
-- Командная разработка
+## 💼 Experience
+
+### 🎮 Indie Project (in development) — Godot Developer
+
+*Aug 2025 — Present*
+
+* Developing a 2D rogue-lite with meta-progression
+* Implementing gameplay mechanics and combat systems
+* Designing component-based NPC architecture
+* Building cutscene tools and narrative systems
+* Collaborating with artists and QA
+* Refactoring and maintaining production code
 
 ---
 
-## 🎓 Образование
-**ЮФУ — Институт математики, механики и компьютерных наук им. И.И. Воровича**  
-Бакалавр, 2022–2026
+### 🧩 Work Projects (NDA) — Game Developer (Godot)
+
+* Gameplay mechanics, systems, and characters
+* Multiplayer systems (lobby, RPC, sync)
+* UI development for gameplay support
+* Balancing progression and combat systems
+* Bug fixing and iteration based on feedback
 
 ---
 
-## 🌍 Языки
-- Русский — родной
-- Английский — A2 (в процессе изучения)
+### 👨‍🏫 Godot Instructor / Game Dev Mentor
+
+*2023 — Present*
+
+* Teaching game development using **Godot 4.x (2D)** from scratch to completed projects
+* Conducting lessons on programming, architecture, and game design
+* Reviewing student projects and improving code quality
+* Participating in hackathon organization and curriculum development
+
+**Achievements:**
+
+* Students trained under the program achieved **prize-winning places in олимпиads and competitions**
+* Guided dozens of completed student projects
 
 ---
 
+### 🧪 Freelance / Personal Projects — Developer (Godot / Python)
+
+* Development of mini-games and tools
+* Python tools for **Digital Image Correlation (DIC)**
+* SDK integration and release preparation
+
+---
+
+## 🏭 Production Experience
+
+* Sprint-based development
+* Working with technical specifications
+* Release preparation for **PC & Android**
+* Bug tracking and fixing based on QA feedback
+* Team collaboration
+
+---
+
+## 🎓 Education
+
+**Southern Federal University (SFedU)**
+Institute of Mathematics, Mechanics and Computer Science
+Bachelor’s Degree (2022–2026)
+
+---
+
+## 🌍 Languages
+
+* Russian — Native
+* English — A2 (actively improving)
+
+---
