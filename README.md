@@ -127,4 +127,4 @@
 
 # My Blender Scene
 
-![Preview](renders/render1.png)
+![Preview](ролл.png)
