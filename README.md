@@ -123,3 +123,8 @@
 * Английский — A2 (в процессе)
 
 ---
+
+
+# My Blender Scene
+
+![Preview](renders/render1.png)
